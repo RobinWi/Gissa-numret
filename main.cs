@@ -8,7 +8,7 @@ class MainClass {
 
     bool vinn = false;
 
-    CurrentGuess = Int32.Parse(Console.ReadLine());
+    int Gissningar = 0;
 
     do
     {
@@ -18,21 +18,25 @@ class MainClass {
       int i = int.Parse(s);
       if (i > vinnNum)
       {
-        Console.WriteLine("För högt! Gissa igen: ");
+        Console.WriteLine("För högt! ");
+        Gissningar++;
       }
       else if (i < vinnNum)
       {
-        Console.WriteLine("För lågt! Gissa igen: ");
+        Console.WriteLine("För lågt! ");
+        Gissningar++;
       }
       else if (i == vinnNum)
       {
         Console.WriteLine("Grattis du gissade rätt!");
+        Gissningar++;
         vinn = true;
+        Console.WriteLine("Antalet gissninger: " + Gissningar);
+
       }
 
     }
     while (vinn == false);
     Console.ReadLine();
-    Console.WriteLine("Antal gissningar: " + CurrentGuess);
   }
 }
