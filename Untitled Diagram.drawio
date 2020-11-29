@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T20:34:53.007Z" agent="5.0 (X11; CrOS x86_64 13310.59.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.84 Safari/537.36" etag="WtAXtXLYoOluTfJYY5ZK" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T21:21:04.614Z" agent="5.0 (X11; CrOS x86_64 13310.59.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.84 Safari/537.36" etag="gfHgbThXntO7M_BKVXyI" version="13.10.2" type="github">
   <diagram id="OQ10ZAyFoiUq_mqqNgxz" name="Page-1">
     <mxGraphModel dx="1320" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,10 +46,10 @@
         <mxCell id="udXb2jWoGSzmSQKy8RaZ-7" value="Ja&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="udXb2jWoGSzmSQKy8RaZ-9" value="Utmaning&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="udXb2jWoGSzmSQKy8RaZ-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Utmaning&lt;br&gt;&quot;För lågt&quot;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="340" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="udXb2jWoGSzmSQKy8RaZ-10" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="udXb2jWoGSzmSQKy8RaZ-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Utmaning&lt;br&gt;Grattis rätt&amp;nbsp;&lt;br&gt;nummer&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="256.25" width="140" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="udXb2jWoGSzmSQKy8RaZ-15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.572;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="udXb2jWoGSzmSQKy8RaZ-1" target="udXb2jWoGSzmSQKy8RaZ-9">
@@ -70,11 +70,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="udXb2jWoGSzmSQKy8RaZ-17" value="utmatning" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="udXb2jWoGSzmSQKy8RaZ-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;utmatning&lt;br&gt;&quot;För högt&quot;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="340" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="udXb2jWoGSzmSQKy8RaZ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="490" width="79" height="30" as="geometry" />
+        <mxCell id="udXb2jWoGSzmSQKy8RaZ-19" value="Gissat rätt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120.5" y="370" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="udXb2jWoGSzmSQKy8RaZ-21" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="udXb2jWoGSzmSQKy8RaZ-10" target="udXb2jWoGSzmSQKy8RaZ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="320" as="sourcePoint" />
+            <mxPoint x="490" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udXb2jWoGSzmSQKy8RaZ-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="udXb2jWoGSzmSQKy8RaZ-17" target="udXb2jWoGSzmSQKy8RaZ-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="510" as="sourcePoint" />
+            <mxPoint x="750" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="450" />
+              <mxPoint x="650" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udXb2jWoGSzmSQKy8RaZ-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="udXb2jWoGSzmSQKy8RaZ-9" target="udXb2jWoGSzmSQKy8RaZ-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="510" as="sourcePoint" />
+            <mxPoint x="590" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="450" />
+              <mxPoint x="650" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udXb2jWoGSzmSQKy8RaZ-24" value="Testa igen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="510" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
